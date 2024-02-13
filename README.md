@@ -1,6 +1,6 @@
 # lava
 
 Welcome
-hello!!
+hello
 
- #its going great guys!
+#its going great guys!
